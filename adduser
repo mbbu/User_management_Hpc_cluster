@@ -1,0 +1,8 @@
+#ssh into hpc as root
+cd /scripts
+open file username.txt
+edit file with user name
+run ./passwd.sh
+run ./change_passwd.sh
+send "username" and password : username123 (example of generated password:espira123)
+user will be peompted to change password upon login 
